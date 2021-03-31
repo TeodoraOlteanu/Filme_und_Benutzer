@@ -1,0 +1,9 @@
+Pipota,Laris,The Hobbit,The Lord of the Rings,
+Lambda,Christiano,Christiano,Joker,
+Ambars,Paul,Pride and Prejudice,Emma,
+Estoji,Kara,The Green Mile,The Man In The Iron Mask,
+Sifer,Octavio,The Mentalist,Merlin,
+
+sofer1,10,tir1,
+sofer2,12,tir2,
+sofer3,13,tir3,
